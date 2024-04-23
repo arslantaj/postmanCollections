@@ -1,0 +1,27 @@
+{
+	"id": "42335ad0-78f7-45fd-8e9a-7a51dfa25926",
+	"values": [
+		{
+			"key": "globalurl",
+			"value": "https://reqres.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "OrderID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orderID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-03-28T06:03:34.398Z",
+	"_postman_exported_using": "Postman/10.24.7"
+}
